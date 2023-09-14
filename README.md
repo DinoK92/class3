@@ -1,4 +1,4 @@
-# Introduction
+# About me
 * Dino Krezovikj from Skopje, North Macedonia. I have worked in the Hospitality Dept. on cruise ships for 9 years.
   
  * Upgrading my knowledge in the Fintech field, as I introduced myself to it 3 years ago.
