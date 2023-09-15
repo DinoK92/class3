@@ -14,3 +14,17 @@
 another one from git hub to local 
 
 another one from vs local
+# givers you a header
+
+## gives you a subheader 
+
+
+for bold we use **two stars**
+for italic we use *one star*
+
+here's some code : `git status`
+
+here's another code snippet `git commit -m 'my message'`
+
+link to google: [google](https://google.com)
+images add ![something](link 
