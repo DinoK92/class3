@@ -27,4 +27,10 @@ here's some code : `git status`
 here's another code snippet `git commit -m 'my message'`
 
 link to google: [google](https://google.com)
+
 images add ![something](link 
+
+---
+
+> blocek quote of text
+> here is some more text
