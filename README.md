@@ -10,7 +10,7 @@
 
  **I just changed this in vscode**
 
- let me add some image : ![Palm](photo-1577017040065-650ee4d43339.jpeg)
+ let me add some image : ![Palm](https://cdn.britannica.com/24/162724-050-6C219853/Date-palm.jpg)
 
 [google](http://google.com) 
 
@@ -19,4 +19,5 @@ lets see if it works
 lets see
 
 `block quotes` 
+
 
